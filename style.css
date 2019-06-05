@@ -19,11 +19,12 @@ Mid: #5aaa9d
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
   }
   
   .requirement {
     color: white;
+    max-width: 800px;
   }
 
   .pizza {
